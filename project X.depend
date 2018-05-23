@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1527007922 source:d:\proiect becheru\project x\main.c
+	<stdio.h>
+	<stdlib.h>
+
