@@ -4,6 +4,8 @@
 #define lenghtM 1000
 int adjMatrix[MAX][MAX];
 
+///////////////////////////////////////////
+
 int verificareCiclu(int adjMatrix[MAX][MAX]){
     int iterator1,iterator2,count=lenghtM,gradintern,sw,aux[MAX][MAX],flag[MAX];
 
