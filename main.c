@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define MAX 500
-#define lenghtM 1000
+#define lenghtM 200
 int adjMatrix[MAX][MAX];
 
 ///////////////////////////////////////////
