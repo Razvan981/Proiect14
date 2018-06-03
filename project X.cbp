@@ -31,6 +31,12 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="TopSort1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="TopSort2.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="functii.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />

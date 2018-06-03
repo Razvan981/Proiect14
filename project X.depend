@@ -3,8 +3,17 @@
 	<stdio.h>
 	<stdlib.h>
 
-1527974540 source:c:\users\rsx98\desktop\proiectad\proiect14\main.c
+1528035611 source:c:\users\rsx98\desktop\proiectad\proiect14\main.c
+	"functii.h"
+
+1528035613 c:\users\rsx98\desktop\proiectad\proiect14\functii.h
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
+
+1528035614 source:c:\users\rsx98\desktop\proiectad\proiect14\topsort1.c
+	"functii.h"
+
+1528035615 source:c:\users\rsx98\desktop\proiectad\proiect14\topsort2.c
+	"functii.h"
 
