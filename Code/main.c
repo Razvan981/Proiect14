@@ -2,9 +2,6 @@
 
 int adjMatrix[MAX][MAX];
 int aux[MAX][MAX];
-//int visitedB[MAX];
-//int Vector[lenghtM+1];
-
 
 int verificareCiclu(int adjMatrix[MAX][MAX]){
 
